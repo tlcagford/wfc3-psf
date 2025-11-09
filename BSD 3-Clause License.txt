@@ -1,0 +1,20 @@
+
+## Updated Package Init File
+
+```python:wfc3_psf/__init__.py
+"""
+WFC3 PSF Modeling Toolkit
+
+A Python package for modeling and analyzing Point Spread Functions (PSFs)
+for the Hubble Space Telescope's Wide Field Camera 3 (WFC3).
+
+BSD 3-Clause License
+Copyright (c) 2024, tlcagford
+"""
+
+__version__ = "0.1.0"
+__author__ = "tlcagford"
+__license__ = "BSD 3-Clause"
+
+from .models import *
+from .fitting import *
