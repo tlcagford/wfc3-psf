@@ -1,0 +1,7 @@
+@article{ford2024wfc3psf,
+  title={The HST/WFC3 IR Point Spread Function: A 13-Year Empirical Characterization for Precision Astronomy in the JWST Era},
+  author={Ford, Tony Eugene},
+  journal={arXiv preprint},
+  year={2024},
+  doi={10.5281/zenodo.13833419}
+}
